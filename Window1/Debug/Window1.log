@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\хакатон\Window1-core\Window1\main.cpp(4,77): warning C4138: "*/" найден вне комментария
+D:\хакатон\Window1-core\Window1\main.cpp(4,77): warning C4081: требуется "newline"; обнаружен "*"
+  Window1.vcxproj -> D:\хакатон\Window1-core\Debug\Window1.exe
